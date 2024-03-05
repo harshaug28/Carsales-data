@@ -10,4 +10,4 @@ STEPS FOLLOWED
 5. Implementing KPIs for Data Analysis
 6. Data Visualization
 7. Report Generation.
-![image](https://github.com/harshaug28/Carsales-data/assets/66326479/ebe3ce72-5b34-458a-a2a7-636359d5eaec)
+
